@@ -1,0 +1,140 @@
+[20-Dec-2023 08:51:04 UTC] PHP Warning:  Array to string conversion in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/home.php on line 163
+[21-Dec-2023 05:42:40 UTC] Sync process for Gutenberg Blocks has started.
+[21-Dec-2023 05:42:40 UTC] CATEGORY:Importing categories..
+[21-Dec-2023 05:42:40 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[21-Dec-2023 05:42:40 UTC] CATEGORY:Completed category import.
+[21-Dec-2023 05:42:40 UTC] BLOCK: Getting Total Blocks
+[21-Dec-2023 05:42:40 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[21-Dec-2023 05:42:40 UTC] BLOCK: Requests count 4
+[21-Dec-2023 05:42:40 UTC] BLOCK: Importing request 1 ..
+[21-Dec-2023 05:42:40 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[21-Dec-2023 05:42:40 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[21-Dec-2023 05:42:40 UTC] BLOCK: Completed request 1
+[21-Dec-2023 05:42:40 UTC] BLOCK: Importing request 2 ..
+[21-Dec-2023 05:42:40 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[21-Dec-2023 05:42:40 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[21-Dec-2023 05:42:40 UTC] BLOCK: Completed request 2
+[21-Dec-2023 05:42:40 UTC] BLOCK: Importing request 3 ..
+[21-Dec-2023 05:42:40 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[21-Dec-2023 05:42:40 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[21-Dec-2023 05:42:40 UTC] BLOCK: Completed request 3
+[21-Dec-2023 05:42:40 UTC] BLOCK: Importing request 4 ..
+[21-Dec-2023 05:42:40 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[21-Dec-2023 05:42:40 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[21-Dec-2023 05:42:40 UTC] BLOCK: Completed request 4
+[21-Dec-2023 05:42:40 UTC] SITE: Getting Total Sites
+[21-Dec-2023 05:42:40 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[21-Dec-2023 05:42:40 UTC] SITE: Request count 2
+[21-Dec-2023 05:42:40 UTC] SITE: Importing request 1 ..
+[21-Dec-2023 05:42:40 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[21-Dec-2023 05:42:40 UTC] SITE: Storing in option ast-block-templates-sites-1
+[21-Dec-2023 05:42:40 UTC] SITE: Completed request 1
+[21-Dec-2023 05:42:40 UTC] SITE: Importing request 2 ..
+[21-Dec-2023 05:42:40 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[21-Dec-2023 05:42:40 UTC] SITE: Storing in option ast-block-templates-sites-2
+[21-Dec-2023 05:42:40 UTC] SITE: Completed request 2
+[21-Dec-2023 05:42:40 UTC] Sync process for Gutenberg Blocks is done.
+[22-Dec-2023 09:14:49 UTC] Sync process for Gutenberg Blocks has started.
+[22-Dec-2023 09:14:49 UTC] CATEGORY:Importing categories..
+[22-Dec-2023 09:14:49 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[22-Dec-2023 09:14:49 UTC] CATEGORY:Completed category import.
+[22-Dec-2023 09:14:49 UTC] BLOCK: Getting Total Blocks
+[22-Dec-2023 09:14:49 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[22-Dec-2023 09:14:50 UTC] BLOCK: Requests count 4
+[22-Dec-2023 09:14:50 UTC] BLOCK: Importing request 1 ..
+[22-Dec-2023 09:14:50 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[22-Dec-2023 09:14:50 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[22-Dec-2023 09:14:50 UTC] BLOCK: Completed request 1
+[22-Dec-2023 09:14:50 UTC] BLOCK: Importing request 2 ..
+[22-Dec-2023 09:14:50 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[22-Dec-2023 09:14:50 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[22-Dec-2023 09:14:50 UTC] BLOCK: Completed request 2
+[22-Dec-2023 09:14:50 UTC] BLOCK: Importing request 3 ..
+[22-Dec-2023 09:14:50 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[22-Dec-2023 09:14:50 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[22-Dec-2023 09:14:50 UTC] BLOCK: Completed request 3
+[22-Dec-2023 09:14:50 UTC] BLOCK: Importing request 4 ..
+[22-Dec-2023 09:14:50 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[22-Dec-2023 09:14:50 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[22-Dec-2023 09:14:50 UTC] BLOCK: Completed request 4
+[22-Dec-2023 09:14:50 UTC] SITE: Getting Total Sites
+[22-Dec-2023 09:14:50 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[22-Dec-2023 09:14:50 UTC] SITE: Request count 2
+[22-Dec-2023 09:14:50 UTC] SITE: Importing request 1 ..
+[22-Dec-2023 09:14:50 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[22-Dec-2023 09:14:50 UTC] SITE: Storing in option ast-block-templates-sites-1
+[22-Dec-2023 09:14:50 UTC] SITE: Completed request 1
+[22-Dec-2023 09:14:50 UTC] SITE: Importing request 2 ..
+[22-Dec-2023 09:14:50 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[22-Dec-2023 09:14:50 UTC] SITE: Storing in option ast-block-templates-sites-2
+[22-Dec-2023 09:14:50 UTC] SITE: Completed request 2
+[22-Dec-2023 09:14:50 UTC] Sync process for Gutenberg Blocks is done.
+[22-Dec-2023 12:33:19 UTC] PHP Warning:  Array to string conversion in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/custom-graduates.php on line 65
+[22-Dec-2023 12:34:22 UTC] PHP Warning:  Array to string conversion in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/custom-graduates.php on line 64
+[22-Dec-2023 12:34:23 UTC] PHP Warning:  Array to string conversion in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/custom-graduates.php on line 64
+[22-Dec-2023 12:35:32 UTC] PHP Warning:  Array to string conversion in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/custom-graduates.php on line 64
+[22-Dec-2023 12:35:56 UTC] PHP Warning:  Array to string conversion in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/custom-graduates.php on line 64
+[22-Dec-2023 12:37:44 UTC] PHP Warning:  Array to string conversion in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/custom-graduates.php on line 58
+[22-Dec-2023 13:14:11 UTC] PHP Warning:  Undefined variable $trimmed_content in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php on line 78
+[22-Dec-2023 13:14:11 UTC] PHP Warning:  Undefined variable $trimmed_content in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php on line 78
+[22-Dec-2023 13:16:43 UTC] PHP Warning:  Undefined variable $trimmed_content in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php on line 79
+[22-Dec-2023 13:16:43 UTC] PHP Warning:  Undefined variable $trimmed_content in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php on line 79
+[22-Dec-2023 14:46:54 UTC] PHP Warning:  Undefined array key 0 in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/single.php on line 15
+[22-Dec-2023 14:46:54 UTC] PHP Warning:  Attempt to read property "slug" on null in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/single.php on line 15
+[22-Dec-2023 14:46:54 UTC] PHP Warning:  Undefined array key 0 in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/single.php on line 16
+[22-Dec-2023 14:46:54 UTC] PHP Warning:  Attempt to read property "cat_name" on null in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/single.php on line 16
+[22-Dec-2023 14:47:20 UTC] PHP Warning:  Undefined array key 0 in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/single.php on line 15
+[22-Dec-2023 14:47:20 UTC] PHP Warning:  Attempt to read property "slug" on null in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/single.php on line 15
+[22-Dec-2023 14:47:20 UTC] PHP Warning:  Undefined array key 0 in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/single.php on line 16
+[22-Dec-2023 14:47:20 UTC] PHP Warning:  Attempt to read property "cat_name" on null in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/single.php on line 16
+[23-Dec-2023 12:49:53 UTC] Sync process for Gutenberg Blocks has started.
+[23-Dec-2023 12:49:53 UTC] CATEGORY:Importing categories..
+[23-Dec-2023 12:49:53 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[23-Dec-2023 12:49:53 UTC] CATEGORY:Completed category import.
+[23-Dec-2023 12:49:53 UTC] BLOCK: Getting Total Blocks
+[23-Dec-2023 12:49:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[23-Dec-2023 12:49:53 UTC] BLOCK: Requests count 4
+[23-Dec-2023 12:49:53 UTC] BLOCK: Importing request 1 ..
+[23-Dec-2023 12:49:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[23-Dec-2023 12:49:53 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[23-Dec-2023 12:49:53 UTC] BLOCK: Completed request 1
+[23-Dec-2023 12:49:53 UTC] BLOCK: Importing request 2 ..
+[23-Dec-2023 12:49:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[23-Dec-2023 12:49:53 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[23-Dec-2023 12:49:53 UTC] BLOCK: Completed request 2
+[23-Dec-2023 12:49:53 UTC] BLOCK: Importing request 3 ..
+[23-Dec-2023 12:49:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[23-Dec-2023 12:49:53 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[23-Dec-2023 12:49:53 UTC] BLOCK: Completed request 3
+[23-Dec-2023 12:49:53 UTC] BLOCK: Importing request 4 ..
+[23-Dec-2023 12:49:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[23-Dec-2023 12:49:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[23-Dec-2023 12:49:54 UTC] BLOCK: Completed request 4
+[23-Dec-2023 12:49:54 UTC] SITE: Getting Total Sites
+[23-Dec-2023 12:49:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[23-Dec-2023 12:49:54 UTC] SITE: Request count 2
+[23-Dec-2023 12:49:54 UTC] SITE: Importing request 1 ..
+[23-Dec-2023 12:49:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[23-Dec-2023 12:49:54 UTC] SITE: Storing in option ast-block-templates-sites-1
+[23-Dec-2023 12:49:54 UTC] SITE: Completed request 1
+[23-Dec-2023 12:49:54 UTC] SITE: Importing request 2 ..
+[23-Dec-2023 12:49:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[23-Dec-2023 12:49:54 UTC] SITE: Storing in option ast-block-templates-sites-2
+[23-Dec-2023 12:49:54 UTC] SITE: Completed request 2
+[23-Dec-2023 12:49:54 UTC] Sync process for Gutenberg Blocks is done.
+[24-Dec-2023 04:44:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: str_replace() expects at least 3 arguments, 2 given in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php:77
+Stack trace:
+#0 /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php(77): str_replace('', '<!-- wp:paragra...')
+#1 /Users/yumi/Local Sites/samurai-university/app/public/wp-includes/template-loader.php(106): include('/Users/yumi/Loc...')
+#2 /Users/yumi/Local Sites/samurai-university/app/public/wp-blog-header.php(19): require_once('/Users/yumi/Loc...')
+#3 /Users/yumi/Local Sites/samurai-university/app/public/index.php(17): require('/Users/yumi/Loc...')
+#4 {main}
+  thrown in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php on line 77
+[24-Dec-2023 04:45:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: str_replace() expects at least 3 arguments, 2 given in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php:77
+Stack trace:
+#0 /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php(77): str_replace('', '<!-- wp:paragra...')
+#1 /Users/yumi/Local Sites/samurai-university/app/public/wp-includes/template-loader.php(106): include('/Users/yumi/Loc...')
+#2 /Users/yumi/Local Sites/samurai-university/app/public/wp-blog-header.php(19): require_once('/Users/yumi/Loc...')
+#3 /Users/yumi/Local Sites/samurai-university/app/public/index.php(17): require('/Users/yumi/Loc...')
+#4 {main}
+  thrown in /Users/yumi/Local Sites/samurai-university/app/public/wp-content/themes/samurai_university/category-graduates.php on line 77
